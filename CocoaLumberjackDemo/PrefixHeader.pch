@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  CocoaLumberjackDemo
+//
+//  Created by 石学谦 on 2020/5/2.
+//  Copyright © 2020 shixueqian. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "SQLogManager.h"
+
+#endif /* PrefixHeader_pch */
